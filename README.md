@@ -53,12 +53,16 @@ API → ETL → PostgreSQL → Airflow
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
 </div>
+
 ---
 
 ## GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrorocha13&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrorocha1&layout=compact&hide_border=true)
+<p align="center">
+  <img src="./profile/stats.svg" height="180">
+  <img src="./profile/top-langs.svg" height="180">
+</p>
+
 ---
 
 LinkedIn (https://www.linkedin.com/in/pedro-rocha-de-jesus-286b481a1/) | Email (pedrorochadejesus.70@gmail.com)
