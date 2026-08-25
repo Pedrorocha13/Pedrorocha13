@@ -1,16 +1,64 @@
-## Hi there 👋
+# Pedro Rocha
 
-<!--
-**Pedrorocha13/Pedrorocha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer | Python • SQL • Airflow • Spark
 
-Here are some ideas to get you started:
+Building reliable data pipelines and modern data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Rio de Janeiro, Brazil
+
+---
+
+## About me
+
+Data Engineer focused on building scalable data pipelines,
+ETL/ELT workflows and data platforms.
+
+Currently working with:
+
+- Python
+- SQL
+- Apache Airflow
+- Apache Spark
+- Docker
+- Power BI
+- PostgreSQL / SQL Server
+- Data Lakes & Lakehouse architectures
+
+Currently exploring:
+- Apache Iceberg / Delta Lake
+- MinIO / Object Storage
+- Cloud Data Engineering
+- Data Architecture
+---
+
+## Featured Projects
+
+🎲 Board Games Lakehouse
+API → Data Lake → Medallion → Spark → Airflow → BI
+
+🎵 Music Data Pipeline
+API → Airflow → PostgreSQL → Analytics
+
+🌦️ Weather Data Pipeline
+API → ETL → PostgreSQL → Airflow
+
+---
+
+## Tech Stack
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
+</div>
+---
+
+## GitHub Stats
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrorocha13&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrorocha1&layout=compact&hide_border=true)
+---
+
+LinkedIn (https://www.linkedin.com/in/pedro-rocha-de-jesus-286b481a1/) | Email (pedrorochadejesus.70@gmail.com)
